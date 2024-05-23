@@ -67,9 +67,9 @@ span{
 .navlist a:hover{
     color: var(--main-color);
 }
-.navlist a.active{
+/* .navlist a.active{
     color: var(--main-color);
-}
+} */
 .nav-icons{
     display: flex;
     align-items: center;
@@ -298,8 +298,24 @@ button:hover{
     font-weight: 500;
     transition: 0.8s;
     background: transparent;
+    color: var(--text-color);
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
 }
-.box a .fas{
+/* .box a .fas{
     color: #1daf;
     font-size: 18px;
+} */
+/* SECTIONS */
+/* section{
+    min-height: 100vh;
+    padding: 10rem 9% 2rem;
 }
+DISHES
+.dishes p{
+    color: var(--text-color);
+}
+.shop{
+    background: var(--main-color);
+} */
