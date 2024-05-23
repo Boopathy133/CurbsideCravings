@@ -285,3 +285,21 @@ button:hover{
     text-decoration: underline;
     text-underline-offset: 2px;
 }
+
+
+/* SEARCH */
+.box:hover input{
+    width: 300px;
+}
+.box input{
+    width: 0;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    transition: 0.8s;
+    background: transparent;
+}
+.box a .fas{
+    color: #1daf;
+    font-size: 18px;
+}
