@@ -20,7 +20,7 @@
             <li><a href="#shop">Shop</a></li>
             <li><a href="#service">Service</a></li>
             <!-- <li><a href="" id="popup" onclick="openPopup()">Register</a></li> -->
-            <li><a href="#">Login</a></li>
+            <!-- <li><a href="#">Login</a></li> -->
         </ul>
         <div class="nav-icons">
             <div class="box"><input type="text" placeholder="Search..">
@@ -44,11 +44,14 @@
                         <i class='bx bxs-star'></i>
                     </p>
                     <p class="product_name">Product Name</p>
-                    <div class="price_discount"><p class="price">Rs.300</p>
-                    <p class="discount"><del>Rs.450</del></p></div>
+                    <div class="price_discount">
+                        <p class="price">Rs.50</p>
+                        <!-- <p class="discount"><del>Rs.450</del></p> -->
+                    </div> 
                     
                 </div>
-                <input type="button" value="Add To cart">
+                <div class="button"><input type="button" value="Add to Cart"></div>
+                <div class="shop_name"><small>From: New Supriya</small></div>
             </div>
             <!-- <div class="card">
                 <div class="image">
