@@ -30,7 +30,7 @@
         </div>
     </header>
     <div class="section">
-        <div class="home_section">
+        <div class="home_section" id="home active">
             <div class="card">
                 <div class="image">
                     <img src="Assets/Dishes/Chicken Rice.png" alt="">
@@ -53,60 +53,6 @@
                 <div class="button"><input type="button" value="Add to Cart"></div>
                 <div class="shop_name"><small>From: New Supriya</small></div>
             </div>
-            <!-- <div class="card">
-                <div class="image">
-                    <img src="Assets/Dishes/Dosa.png" alt="">
-                </div><hr>
-                <div class="caption">
-                    <p class="rate">
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </p>
-                    <p class="product_name">Product Name</p>
-                    <p class="price">Rs.300</p>
-                    <p class="discount"><del>Rs.450</del></p>
-                </div>
-                <input type="button" value="Add To cart">
-            </div>
-            <div class="card">
-                <div class="image">
-                    <img src="Assets/Dishes/Chicken-Noodles.png" alt="">
-                </div><hr>
-                <div class="caption">
-                    <p class="rate">
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </p>
-                    <p class="product_name">Product Name</p>
-                    <p class="price">Rs.300</p>
-                    <p class="discount"><del>Rs.450</del></p>
-                </div>
-                <input type="button" value="Add To cart">
-            </div>
-            <div class="card">
-                <div class="image">
-                    <img src="Assets/Dishes/Chicken-Chinese.png" alt="">
-                </div><hr>
-                <div class="caption">
-                    <p class="rate">
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </p>
-                    <p class="product_name">Product Name</p>
-                    <p class="price">Rs.300</p>
-                    <p class="discount"><del>Rs.450</del></p>
-                </div>
-                <input type="button" value="Add To cart">
-            </div> -->
         </div>
     </div>
 
@@ -193,6 +139,50 @@
         <i class='bx bx-up-arrow-alt'></i>
     </a>
     <script src="script.js"></script>
+    
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Oru Service</a></li>
+                        <li><a href="#">Privacy & Policy</a></li>
+                        <li><a href="AddYours.php">Add Yours</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Get Help</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Shipping</a></li>
+                        <li><a href="#">Returns</a></li>
+                        <li><a href="#">Order Status</a></li>
+                        <li><a href="#">Payment Options</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Online Shop</h4>
+                    <ul>
+                        <li><a href="#">Veg</a></li>
+                        <li><a href="#">Non-Veg</a></li>
+                        <li><a href="#">Chinese</a></li>
+                        <li><a href="#">Traditional</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#"><i class='bx bxl-youtube'></i></a>
+                        <a href="#"><i class='bx bxl-instagram' ></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
