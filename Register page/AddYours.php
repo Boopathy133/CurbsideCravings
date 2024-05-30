@@ -6,6 +6,7 @@ if (isset($_POST["submit"])) {
     $price = $_POST["price"];
     // FOR UPLOAD PHOTOS
     $upload_dir = "uploads/"; //STORE THE UPLOADED IMAGE
+    $product_image = $upload_dir.$_FILES["image"]["name"];
     $upload_dir.$_FILES["image"]["name"];
     $upload_file = $upload_dir.basename($_FILES["image"]["name"]);
     $imageType = strtolower(pathinfo($upload_file,PATHINFO_EXTENSION)); //USED TO DETECT IMAGE FORMAT
@@ -35,6 +36,11 @@ if (isset($_POST["submit"])) {
     } else {
         if ($productName !== "" && $price !=="") {
             move_uploaded_file($_FILES["image"]["tmp_name"],$upload_file);
+            $sql = "INSERT INTO upload_product(product_name,price,product_image) VALUES ('$productName','$price','$product_image)";
+
+            if ($conn-> query($sql) === TRUE) {
+                echo "<script>alert('Your product uploaded successfully')</script>";
+            }
         }
     }
     

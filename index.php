@@ -151,7 +151,7 @@
                         <li><a href="#">About Us</a></li>
                         <li><a href="#">Oru Service</a></li>
                         <li><a href="#">Privacy & Policy</a></li>
-                        <li><a href="AddYours.php">Add Yours</a></li>
+                        <li><a href="#">Add Yours</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
