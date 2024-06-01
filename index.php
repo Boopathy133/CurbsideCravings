@@ -34,7 +34,8 @@
             <div class="card">
                 <div class="image">
                     <img src="Assets/Dishes/Chicken Rice.png" alt="">
-                </div><hr>
+                </div>
+                <hr>
                 <div class="caption">
                     <p class="rate">
                         <i class='bx bxs-star'></i>
@@ -47,13 +48,39 @@
                     <div class="price_discount">
                         <p class="price">Rs.50</p>
                         <!-- <p class="discount"><del>Rs.450</del></p> -->
-                    </div> 
-                    
+                    </div>
+
                 </div>
                 <div class="button"><input type="button" value="Add to Cart"></div>
                 <div class="shop_name"><small>From: New Supriya</small></div>
             </div>
         </div>
+    </div>
+    <div class="section">
+        <!-- <div class="home_section" id="dishes">
+            <div class="card">
+                <div class="image">
+                    <img src="Assets/Dishes/Chicken Rice.png" alt="">
+                </div>
+                <hr>
+                <div class="caption">
+                    <p class="rate">
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                        <i class='bx bxs-star'></i>
+                    </p>
+                    <p class="product_name">Product Name</p>
+                    <div class="price_discount">
+                        <p class="price">Rs.50</p>
+                    </div>
+
+                </div>
+                <div class="button"><input type="button" value="Add to Cart"></div>
+                <div class="shop_name"><small>From: New Supriya</small></div>
+            </div>
+        </div> -->
     </div>
 
     <!-- Register -->
@@ -134,12 +161,7 @@
     </section> -->
 
 
-    <!-- scrool top -->
-    <a href="#home" class="scroll">
-        <i class='bx bx-up-arrow-alt'></i>
-    </a>
-    <script src="script.js"></script>
-    
+
 
     <!-- FOOTER -->
     <footer class="footer">
@@ -151,7 +173,7 @@
                         <li><a href="#">About Us</a></li>
                         <li><a href="#">Oru Service</a></li>
                         <li><a href="#">Privacy & Policy</a></li>
-                        <li><a href="#">Add Yours</a></li>
+                        <li><a href="AddYours.php">Add Yours</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
@@ -177,12 +199,19 @@
                     <h4>Follow Us</h4>
                     <div class="social-links">
                         <a href="#"><i class='bx bxl-youtube'></i></a>
-                        <a href="#"><i class='bx bxl-instagram' ></i></a>
+                        <a href="#"><i class='bx bxl-instagram'></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+
+
+    <!-- scrool top -->
+    <a href="#home" id="home" class="scroll">
+        <i class='bx bx-up-arrow-alt'></i>
+    </a>
+    <script src="script.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
+}
+:root{
+    --main-color: #ff9f0d;
+    --text-color:#fff;
+    --other-color:#212121;
+    --second-color:#9e9e9e;
+    --bg-color:#111111;
+    --bg-font:4.5rem;
+    --h2-font:2.6rem;
+    --p-font:1.1rem;
+    --card-background-color:#ffffff5b;
+}
+body{
+    background: var(--bg-color);
+    color: var(--text-color);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--other-color);
+    padding: 30px 7%;
+    transition: all .50s ease;
+    padding: 15px;
+}
+header.sticky{
+    padding: 12px 14%;
+    background: var(--other-color);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40%;
+    color: var(--text-color);
+    font-size: 33px;
+    font-weight: 700;
+}
+span{
+    color: #ff9f0d;
+}
+.container{
+    position:relative;
+    max-width: 900px;
+    min-height: 370px;
+    width: 100%;
+    /* border-radius: 6px; */
+    padding: 30px;
+    /* margin: 0; */
+    margin-top: 80px;
+    background-color: transparent;
+    /* box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); */
+}
+.container .top{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--main-color);
+}
+/* .container .top::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    height: 3px;
+    width: 27px;
+    border-radius: 8px;
+    background-color: #4070f4;
+} */
+.container form{
+    position: relative;
+    margin-top: 16px;
+    min-height: 370px;
+    background-color: transparent;
+}
+.container form .details{
+    margin-top: 30px;
+}
+.container form .title{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 6px 0;
+    color: var(--bg-font);
+}
+.container form .fields{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+form .fields .input-fileds{
+    display: flex;
+    width: calc(100% / 3 - 15px);
+    flex-direction: column;
+    padding: 5px;
+}
+.input-fileds label{
+    font-size: 12px;
+    font-weight: 500;
+    color:var(--main-color);
+    margin: 3px 0;
+}
+.input-fileds input{
+    font-style: 15px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    height: 40px;
+    width: 100%;
+    padding: 0 10px 0 45px;
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    /* transition: .2s ease; */
+}
+.input-filed:hover, .input-filed:focus{
+    background: rgba(255, 255, 255, 0.25);
+}
+::-webkit-input-placeholder{
+    color: #fff;
+}
+/* .input-box i{
+    position: relative;
+    top: -35px;
+    left: 17px;
+    color: #ff9f0d;
+} */
+/* i{
+    position: relative;
+    bottom: 27px;
+    left: 17px;
+    color: #ff9f0d;
+} */
+
+/* .container form button{
+    display: flex;
+    align-items: center;
+    padding: 8px 15px;
+    padding: 10px;
+    background: var(--main-color);
+    border-radius: 7px;
+    box-shadow: var(--main-color) 0 1px 5px;
+    outline: none;
+    border: none;
+}
+i{
+    vertical-align: middle;
+    font-size: 15px;
+    color: var(--bg-color);
+    margin-right: 8px;
+    margin-left: 5px;
+    transition: all .5s ease;
+}
+.container form button i:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    color: var(--text-color);
+    box-shadow: var(--card-background-color) 0px 0px 5px;
+    transition: all ease 0.5s;
+}
+.nextBtn{
+    transition: all ease 0.5s;
+} */
+.nextBtn{
+    display: flex;
+    /* align-items: center; */
+    font-size: 16px;
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    font-weight: 500;
+    /* width: 160px; */
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    background-color:#ff9e0df3;
+    border-radius: 10px;
+    box-shadow: #ff9f0d 0px 1px 5px;
+    cursor: pointer;
+}
+.nextBtn:hover{
+    color: var(--text-color);
+    transition: all 0.5s ease;
+}
+.section .home_section .card .button{
+    padding-top: 10px;
+}
+.nextBtn .btnText,i{
+    padding: 2px;
+}
+
