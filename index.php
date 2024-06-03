@@ -19,8 +19,7 @@
             <li><a href="#dishes">Dishes</a></li>
             <li><a href="#shop">Shop</a></li>
             <li><a href="#service">Service</a></li>
-            <!-- <li><a href="" id="popup" onclick="openPopup()">Register</a></li> -->
-            <!-- <li><a href="#">Login</a></li> -->
+            <!-- <li><a href="" id="login">Login</a></li> -->
         </ul>
         <div class="nav-icons">
             <div class="box"><input type="text" placeholder="Search..">
@@ -56,109 +55,7 @@
             </div>
         </div>
     </div>
-    <div class="section">
-        <!-- <div class="home_section" id="dishes">
-            <div class="card">
-                <div class="image">
-                    <img src="Assets/Dishes/Chicken Rice.png" alt="">
-                </div>
-                <hr>
-                <div class="caption">
-                    <p class="rate">
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </p>
-                    <p class="product_name">Product Name</p>
-                    <div class="price_discount">
-                        <p class="price">Rs.50</p>
-                    </div>
 
-                </div>
-                <div class="button"><input type="button" value="Add to Cart"></div>
-                <div class="shop_name"><small>From: New Supriya</small></div>
-            </div>
-        </div> -->
-    </div>
-
-    <!-- Register -->
-    <!-- <section>
-        <div class="form-box login">
-            <div class="form-value">
-                <form action="">
-                    <h2>Login</h2>
-                    <div class="input-box">
-                        <input type="text" required>
-                        <label for="">E-mail</label>
-                    </div>
-                    <div class="input-box">
-                        <input type="password" required>
-                        <label for="">Password</label>
-                    </div>
-                    <div class="forget">
-                        <label for="">
-                            <input type="checkbox">Remenber Me
-                            <a href="#">Forget Password</a>
-                        </label>
-                    </div>
-                    <button>Login</button>
-                    <div class="register">
-                        <label for="">
-                            Don't have an account
-                            <a href="#">Register</a>
-                        </label>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <div class="form-box register">
-            <div class="form-value">
-                <form action="">
-                    <h2>Login</h2>
-                    <div class="input-box">
-                        <input type="text" required>
-                        <label for="">E-mail</label>
-                    </div>
-                    <div class="input-box">
-                        <input type="password" required>
-                        <label for="">Password</label>
-                    </div>
-                    <div class="forget">
-                        <label for="">
-                            <input type="checkbox">Remenber Me
-                            <a href="#">Forget Password</a>
-                        </label>
-                    </div>
-                    <button>Login</button>
-                    <div class="register">
-                        <label for="">
-                            Don't have an account
-                            <a href="#">Register</a>
-                        </label>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section> -->
-
-
-    <!-- HOME SECTION
-    <section class="home" id="home">
-
-    </section>
-    DISHES SECTION
-    <section class="dishes" id="dishes">
-        <img src="uIsTKZsJPHUuaiVJn+YVKbqoxWFAa7G6kTHtm9_t2HA=.png" alt="">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, distinctio saepe deserunt nostrum architecto mollitia autem iusto porro quia, ipsam esse tempore nisi quos veniam. Dolorem quasi voluptatum id sequi!</p>
-    </section>
-    <section class="shop" id="shop">
-        
-    </section>
-    <section class="service" id="service">
-        
-    </section> -->
 
 
 
@@ -207,8 +104,16 @@
     </footer>
 
 
+    <!-- LOGIN POPUP -->
+
+
+
+
+
+
     <!-- scrool top -->
-    <a href="#home" id="home" class="scroll">
+    <a href="" id="home" class="scroll">
+        <i class="login" style="cursor: pointer;">Login</i>
         <i class='bx bx-up-arrow-alt'></i>
     </a>
     <script src="script.js"></script>

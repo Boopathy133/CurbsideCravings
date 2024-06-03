@@ -102,6 +102,7 @@ span{
 
 /* scroll-top */
 .scroll{
+    display: flex;
     position: fixed;
     bottom: 2.2rem;
     border-top: 2rem;
@@ -345,12 +346,12 @@ DISHES
     background-color:transparent;
     border-radius: 12px;
 }
-.section .home_section .card:hover{
+/* .section .home_section .card:hover{
     transform: scale(1.1);
     color: var(--text-color);
     box-shadow: var(--card-background-color) 0px 0px 5px;
     transition: all ease 0.5s;
-}
+} */
 .section .home_section .card .image{
     height: 50%;
     margin-bottom: 20px;
