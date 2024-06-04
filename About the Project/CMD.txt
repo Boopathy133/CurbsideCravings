@@ -1,0 +1,91 @@
+                                                            BOOPATHY
+
+
+        *   Let us discuss about the project which we have created mainly for the roadside hotel shop to 
+            connect with the growing world.
+        *   The title of the projeect is CURSIDE CRAVINGS, the CURBSIDE means THE SIDE OF A STREET and CRAVINGS means SALTY, SWEET or FATTY foods.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+        *   Let us shortly see our problem statment which we have give the solution:
+                1.Developing a user-friendly website for a roadside restaurent to addess challenges in online visibility, customer 
+                    enaggement and operational efficiency.
+                2.The website will feature easy navigation, interactive menu, online odering.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------        
+        *   Next we see the decription of the CurbsideCravings:
+                1.SEARCH ANF FILTER FUNCTIONALITY:
+                    * We have implement search and filter options to help the user to find their favorite restaurent to order their foods 
+                      based on the criteria location and ratings.
+                2. USER REVIEWS AND RATINGS:
+                    * Enable users to share their dining experience through reviews and ratings.
+                3. COMMUNITY ENGAGEMENT FEATURES:
+                    * Facilitate community interaction by allowing user to like, share and comment on restaurent listing.
+
+Next it will take over by SUDHAKAR:
+=============================================================================================================================================================
+                                                            SUDHAKAR
+Hi guys,
+    Let us the introduction of the CurbsideCravings and the explanation of the website
+
+    *   CURBSIDE CRAVINGS is online site to connect the growing roadside hotels, and restaurent with the all people who have ordered food by only using SWIGGY and ZOMATO.
+    *   Actually the foods which have oder in swiggy and zomato is good, but we all have some favorite roadside shop which near to our house.
+        In some we have not able go and by in our favorite shop, so, by this time we give the solution for it, that the CurbsideCravings.
+    *   At any function time we have oder food from unknown food shop recommended by like zomato and so......, thats why we need our familiar restaurents.
+    *   So thats why we have created CURSIDE CRAVINGS.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Now let us some existing systems that means already running in this real worrld:
+1.  YELP:   Yelp ia a popular platform where users can discover and review restaurent, including roadside ones.
+    LINK: https://www.yelp.com
+2.  TRIPADVISOR:    Tripadvisor is another platform where users can discover and review restaurent.
+    LINK: https://www.tripadvisor.in
+3.  ZOMATO: zomato is similar to yelp and tripadvisor, providing users with restaurent discovery and review features.
+    LINK: https://www.zomato.com
+
+Next it will take over by YASWANTH:
+================================================================================================================================================================================
+                                                            YASWANTH
+hi guys,
+    From now we see the features and explanation of the our website
+
+    *   On the top of the website contains the NAVBAR which have sections like :HOME, DISHES, SHOP, and SERVICES. Lets us see one by one
+        1.Let us start with HOME sections
+            *   HOME section contains the most ordered and mostly liked food items to recommend the customer.
+        2.RESTAURENT LISTING
+            *   Display a comprehensive directory of roadside restaurent, including their names, loaction, contact information and brief description.
+        3.SEARCH AND FILTER OPTIONS:
+            *   Implement search functionality allowing user to find restaurent based on criteria such as location, price, nad users ratings.
+        4.Next i will end with DISHES section 
+            *   In the dishes section, which shows all the selling dishes  based on the shop ownership.
+            *   By displying all the dishes the user can  easyly cna find or choose the dishes based on their taste.
+            *   Showing all dishes form the all the restaurent makes the user easy to comapare with each of the restaurent based on criteria such as loaction, price and user ratings and reviews.
+===================================================================================================================================================================================================
+                                                            VIDHYA
+Let us see the advantages of the CURBSIDE CRAVINGS website:
+1.LOCAL BUSINESS SUPPORT:
+    *   Promotyes local roadside reservation by giving them an online platform to reach a wider audience.
+2. ENHANCED VISIBILITY:
+    *   Listing, search nad filter options increases the visibility of roadside restaurents to potential cutomers, improving their changes of being discovered.
+3. CONVENIENCE FOR USERS:
+    *   Online ordering save user time and effort, offering convenience and flexibility in dining arrangements.
+4. PROMOTING OF SPECIAL OFFERS:
+    *   Highlighting special offers and helps restaurent attract more customers and boost sales during off-peak hours or special occasions.
+5. ACCESSIBILITY AND INCLUSIVITY:
+    *   Accessibility features ensure that all users, including those with diabilities, can access and use the website, promoting inclusivity and broadening the restaurent's customer base.
+6. RESPONSIVE DESIGN:
+    *   Responsive design ensures a consistent and seamless user experience across devices, improving accessibility and user satisfaction.
+7. USER LOYALTY AND RETENTION:
+    *   Features like customer reviews, personalized recomendations, and loyalty programs help build and maintain a loyal customer base.
+
+Next conitued by NANDHANA
+====================================================================================================================================================================================================
+                                                            NANDHANA
+1.IMPROVED CUSTOMER EXPERIENEC:
+    *   Detailed restaurents profiles, menus and reviews empower users to make informed decisions, resulting in more satisfying dining experience.
+2.INCREASED BOOKINGS AND SALES:
+    *   Online reservation and ordering systems streamline the booking process, leading to more reservation and higher sales for restaurent.
+3. CUSTOMIZABLE USER EXPERIENCE:
+    *   Personalized features allow users to create accounts, save favorite restaurents, and receive tailored recommendations, enhancing user saisfaction.
+4. REAL-TIME UPDATES:
+    *   Restaurents can provide real-time updates on menu changes, special events, or temporary closures, ensuring customers have the latest information.
+5. COLLOBARATION OPPRTUNITIES:
+    *   Provides a platform for restaurent to collobrate with each others for events, promotions, and cross-promotionsl.
+6. ENHANCED REPUTATION:
+    *   A well-maintained online presence with positive review and an engaging interface can enhance the reputation of listed restaurent, attracting more customers.
