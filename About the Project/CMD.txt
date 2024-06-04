@@ -89,3 +89,18 @@ Next conitued by NANDHANA
     *   Provides a platform for restaurent to collobrate with each others for events, promotions, and cross-promotionsl.
 6. ENHANCED REPUTATION:
     *   A well-maintained online presence with positive review and an engaging interface can enhance the reputation of listed restaurent, attracting more customers.
+================================================================================================================================================================================
+                                                                MUKILAN
+At the last we have the options to the customers and the users to easily known about the website
+We have included some additional information such as COMAPANY, GETHELP, ONLINE SHOP and FOLLOW US
+    Let us start with the company section, it contains 
+    *   About Us which gives information about our team mates who developed the CURBSIDECRAVINGS.
+    *   OUR SERVICES tells about the services which provided by the shop owners and the website ethicks.
+    *   PRIVACY & POLICY gives the privacy information and the policy which followed by the owners
+    *   ADD YOURS option which help to collobrate with thus. It is used to add their restaurent to website and sell their dishes.
+Next section named as GETHELP because it makes the customer to easy contact with the website owners for collobration.
+    *   FAQ option give the more info about the dishes to the other customers in question and answer form.
+    * SHIPPING and RETURNS help the user to track the dishes and returns the products respectively.
+    *   ORDER STATUS is usefull for the customer to tract the dishes where is it and what time it will deliver.
+    *   PAYMENT OPTION is very authentic with the user for easy and safest transaction.
+NEXT THE ONLINE SHOP option is used to filter the dishes with the criteria which is liked by the vegiatriants, Non-vegiatriants, chinese and traditional food like idli, dosa and so..
